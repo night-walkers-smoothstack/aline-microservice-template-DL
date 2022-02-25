@@ -45,3 +45,9 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+
+### Mac OS###
+.DS_Store
+
+
+
